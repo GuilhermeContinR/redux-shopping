@@ -8,7 +8,7 @@ export default function Message(){
     <>
       {
         isShow && ( <div className="container mt-3">
-        <div class="alert alert-success" role="alert">
+        <div className="alert alert-success" role="alert">
           Cadastrado com sucesso!
         </div>
       </div>)
